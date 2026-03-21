@@ -4,7 +4,7 @@ The DS-pi 2.0 is the 2nd, and latest generation of the DS-pi project, a project 
 # Emulation capabilities
 System performance is as expected from a standard raspberry pi 5. The system should be able to confortably emulate DS, PS1, PSP and any systems below that. I have also had good results with 3ds emulation, using the Borked3DS emulator, and some light PS2 and GC games may be playable. Regular steam also works, using the box86 and wine translation layers, however the number of playable games is limited. Streaming games should also be possible via steam-link or any other streaming methods.
 
-## System Specifications
+# System Specifications
 
 - Uses any Pi CM5 module (however the CM5 lite 8GB wifi is highly recommended) with 4 A76 cores at 2.4GHz.
 - 1280x720 main display + 800x480 secondary display, with capacitive touch on both screens.
