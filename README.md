@@ -9,7 +9,7 @@ System performance is as expected from a standard raspberry pi 5. The system sho
 
 - Uses any Pi CM5 module (however the CM5 lite 8GB wifi is highly recommended) with 4 A76 cores at 2.4GHz.
 - 1280x720 main display + 800x480 secondary display, with capacitive touch on both screens.
-- Stereo speakers, using PCM5102 DAC + NS1450B amplifier, over the I2S interface.
+- Stereo speakers, using PCM5102 DAC + NS4150B amplifier, over the I2S interface.
 - Headphone output, sharing the same PCM5102 DAC + PAM8908 Headphone AMP, speaker muting is enabled through the 3.5mm jack.
 - 5000 Mah LiPo battery, with USB-PD charging enabled using the BQ24192 1S BMS, and HUSB238 PD controller..
 - Full size controller using RP2040, and the GP2040CE firmware, using dual analog 3ds slide pads.
